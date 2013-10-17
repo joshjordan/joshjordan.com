@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'coffee-rails', '~> 4.0.0'
+gem 'figaro'
 gem 'jquery-rails'
 gem 'rails', '4.0.0'
 gem 'sass-rails', '~> 4.0.0'
