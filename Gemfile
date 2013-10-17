@@ -11,3 +11,7 @@ gem 'unicorn'
 group :development do
   gem 'capistrano'
 end
+
+group :development, :test do
+  gem 'rspec-rails'
+end
