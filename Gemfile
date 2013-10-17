@@ -7,6 +7,7 @@ gem 'jquery-rails'
 gem 'rails', '4.0.0'
 gem 'redis-rails'
 gem 'sass-rails', '~> 4.0.0'
+gem 'tubesock'
 gem 'uglifier', '>= 1.3.0'
 gem 'unicorn'
 
@@ -15,5 +16,6 @@ group :development do
 end
 
 group :development, :test do
+  gem 'pry'
   gem 'rspec-rails'
 end
