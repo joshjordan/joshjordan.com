@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-JoshjordanCom::Application.load_tasks
+Joshjordan::Application.load_tasks
