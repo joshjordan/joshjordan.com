@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'batman-rails'
 gem 'coffee-rails', '~> 4.0.0'
 gem 'figaro'
 gem 'jquery-rails'

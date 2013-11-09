@@ -1,0 +1,1 @@
+class Joshjordan.ApplicationController extends Batman.Controller
