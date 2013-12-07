@@ -60,6 +60,7 @@ GEM
     net-scp (1.1.2)
       net-ssh (>= 2.6.5)
     net-ssh (2.7.0)
+    newrelic_rpm (3.6.5.130)
     polyglot (0.3.3)
     rack (1.5.2)
     rack-test (0.6.2)
@@ -135,6 +136,7 @@ DEPENDENCIES
   coffee-rails (~> 4.0.0)
   figaro
   jquery-rails
+  newrelic_rpm
   rails (= 4.0.0)
   rspec-rails
   sass-rails (~> 4.0.0)
