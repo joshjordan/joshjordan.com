@@ -16,6 +16,9 @@
 Batman.config.pathToHTML = '/assets/html'
 
 class Joshjordan extends Batman.App
+
+  @resources 'console_messages'
+
   # @resources 'products'
   # @resources 'discounts', except: ['edit']
   # @resources 'customers', only: ['new', 'show']

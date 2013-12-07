@@ -1,0 +1,1 @@
+class Joshjordan.ConsoleMessagesIndexView extends Batman.View
